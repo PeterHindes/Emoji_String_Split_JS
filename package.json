@@ -1,5 +1,5 @@
 {
-  "name": "emoji_string_split_js",
+  "name": "@ph9214/emoji_string_split_js",
   "version": "1.0.0",
   "description": "Split emoji strings including compound emoji such as 👩🏽‍🚀",
   "main": "index.js",
