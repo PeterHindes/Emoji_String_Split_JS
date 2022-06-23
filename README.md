@@ -9,9 +9,9 @@ Demo code
 ```javascript
 let split = require("@ph9214/emoji_string_split_js")
 
-let h = "Hello Gamers"
-let s = split.splitE6(h) // ['H', 'e', 'l', 'l', 'o', ' ', 'G', 'a', 'm', 'e', 'r', s']
-let u = split.assembleE6(s) // "Hello Gamers"
+let h = "Hello World 👩🏽‍🚀"
+let s = split.splitE6(h) // [ 'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd', ' ', '👩🏽‍🚀' ]
+let u = split.assembleE6(s) // "Hello World 👩🏽‍🚀"
 let check = (u === h) // True
 console.log( s, u, check )
 ```
