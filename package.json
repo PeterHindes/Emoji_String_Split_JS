@@ -1,7 +1,7 @@
 {
   "name": "@ph9214/emoji_string_split_js",
   "version": "1.0.2",
-  "description": "Split emoji strings including compound emoji such as 👩🏽‍🚀",
+  "description": "Split emoji strings, including compound emoji such as 👩🏽‍🚀",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +20,7 @@
   "bugs": {
     "url": "https://github.com/PeterHindes/Emoji_String_Split_JS/issues"
   },
-  "homepage": "https://github.com/PeterHindes/Emoji_String_Split_JS#readme"
+  "homepage": "https://github.com/PeterHindes/Emoji_String_Split_JS#readme",
+  "dependencies": {
+  }
 }
